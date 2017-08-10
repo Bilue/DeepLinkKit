@@ -792,7 +792,6 @@
 				BF578C5D1F3BF8D100C97B0B /* Sources */,
 				BF578C5E1F3BF8D100C97B0B /* Frameworks */,
 				BF578C5F1F3BF8D100C97B0B /* Headers */,
-				BF578C601F3BF8D100C97B0B /* Resources */,
 			);
 			buildRules = (
 			);
@@ -896,13 +895,6 @@
 			files = (
 				62891E891B57FA9D00C2AF4F /* Images.xcassets in Resources */,
 				62891E881B57FA7F00C2AF4F /* Main.storyboard in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		BF578C601F3BF8D100C97B0B /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
